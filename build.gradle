@@ -1,5 +1,1 @@
-buildscript {
-    dependencies {
-        classpath "com.android.tools.build:gradle:8.1.0"
-    }
-}
+// Root build.gradle (DO NOT ADD repositories here)
